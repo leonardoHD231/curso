@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    background-color: indigo    ;
+}
+
+.cabeçalho{
+    background-color: indigo;
+    margin-top: 0px;
+}
+
+h1{
+    font-size: 3.0em;
+    color: white;
+}
+ .navegacao .index{
+    background-color:deepskyblue;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+    border-radius: 5px;
+
+ }
+
+ .navegacao .biblioteca{
+    background-color:deepskyblue;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+    border-radius: 5px;
+ }
+
+ .navegacao{
+    display:block;
+    background-color: gainsboro;
+    padding: 30px;
+ }
